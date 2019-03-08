@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/TigerDevCom/TypeScript-React-WebPack/issues"
   },
-  "homepage": "https://github.com/TigerDevCom/TypeScript-React-WebPack#readme"
+  "homepage": "https://github.com/TigerDevCom/TypeScript-React-WebPack#readme",
+  "dependencies": {
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "^16.8.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333"
+  }
 }
