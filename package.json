@@ -1,0 +1,30 @@
+{
+  "name": "typescript-react-webpack",
+  "version": "1.0.0",
+  "description": "Wire up of TypeScript with React and WebPack for Front-End side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigerDevCom/TypeScript-React-WebPack.git"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigerDevCom/TypeScript-React-WebPack/issues"
+  },
+  "homepage": "https://github.com/TigerDevCom/TypeScript-React-WebPack#readme",
+  "dependencies": {
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "^16.8.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333"
+  }
+}
