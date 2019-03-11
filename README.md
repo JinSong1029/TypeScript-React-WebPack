@@ -12,7 +12,7 @@ At the moment, we have some services requirements. Go to console.
 
 3) Run 'webpack'
 
-4) Open src/index.html
+4) Open 'src/index.html'
 
 You are totally done!
 
