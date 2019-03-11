@@ -4,7 +4,11 @@ Wire up of ReactJS and WebPack as well as Gulp using TypeScript.
 
 ## Installation
 
-At the moment, we have some services requirements. Go to console.
+At the moment, we have some services requirements.
+
+This project requires Node.js version 8.x or above.
+
+Go to console.
 
 1) Just clone the app to your local machine 'git clone'
 
